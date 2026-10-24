@@ -1,0 +1,390 @@
+S.No,name,predicted_isAlive,isAlive_text
+1558,Melissa Blackwood,0,нет
+1559,Melisandre,1,да
+1560,Merrit,1,да
+1561,Meryn Trant,1,да
+1562,Merrett Frey,1,да
+1563,Mohor,0,нет
+1564,Missandei,1,да
+1565,Moon Boy,1,да
+1566,Monster,0,нет
+1567,Mord,1,да
+1568,Minisa Whent,1,да
+1569,Mordane,1,да
+1570,Murenmure,1,да
+1571,Myles,1,да
+1572,Mors Martell,1,да
+1573,Mya Stone,1,да
+1574,Myrcella Baratheon,1,да
+1575,Nestor Royce,1,да
+1576,Nute,1,да
+1577,Nymeria Sand,1,да
+1578,Nymeria,1,да
+1579,Oberyn Martell,1,да
+1580,Obella Sand,1,да
+1581,Olenna Redwyne,1,да
+1582,Mychel Redfort,1,да
+1583,Orwyle,0,нет
+1584,Osha,1,да
+1585,Osfryd Kettleblack,1,да
+1586,Osney Kettleblack,1,да
+1587,Orys Baratheon,0,нет
+1588,Osmund Kettleblack,1,да
+1589,Othell Yarwyck,1,да
+1590,Oswell Whent,0,нет
+1591,Otto Hightower,0,нет
+1592,Patchface,1,да
+1593,Paxter Redwyne,1,да
+1594,Pearse Caron,1,да
+1595,Petyr Frey,1,да
+1596,Pia,1,да
+1597,Podrick Payne,1,да
+1598,Preston Greenfield,1,да
+1599,Polliver,1,да
+1600,Pyat Pree,1,да
+1601,Pylos,1,да
+1602,Pycelle,0,нет
+1603,Qhorin Halfhand,0,нет
+1604,Qotho,0,нет
+1605,Quentyn Martell,1,да
+1606,Ralf Stonehouse,1,да
+1607,Ramsay Snow,1,да
+1608,Randyll Tarly,1,да
+1609,Raymun Fossoway,1,да
+1610,Raymun Darry,1,да
+1611,Ravella Swann,1,да
+1612,Small Paul,0,нет
+1613,Tristifer Botley,1,да
+1614,Styr,1,да
+1615,Rat Cook,1,да
+1616,Prendahl na Ghezn,0,нет
+1617,Ulmer,1,да
+1618,Oznak zo Pahl,0,нет
+1619,Aegon Blackfyre,0,нет
+1620,Addam Velaryon,0,нет
+1621,Aegon V Targaryen,0,нет
+1622,Aemon Blackfyre,0,нет
+1623,Aeron Greyjoy,1,да
+1624,Alfyn,1,да
+1625,Alannys Harlaw,1,да
+1626,Alayaya,1,да
+1627,Alyn,1,да
+1628,Alliser Thorne,1,да
+1629,Alester Florent,1,да
+1630,Alysane Mormont,1,да
+1631,Alerie Hightower,1,да
+1632,Anguy,1,да
+1633,Andrik,1,да
+1634,Amory Lorch,1,да
+1635,Archibald Yronwood,1,да
+1636,Arlan of Pennytree,0,нет
+1637,Areo Hotah,1,да
+1638,Arwyn Oakheart,1,да
+1639,Arthur Dayne,1,да
+1640,Arys Oakheart,1,да
+1641,Ashara Dayne,1,да
+1642,Aron Santagar,1,да
+1643,Asha Greyjoy,1,да
+1644,Azor Ahai,1,да
+1645,Bael the Bard,0,нет
+1646,Baelor Blacktyde,1,да
+1647,Balon Greyjoy,0,нет
+1648,Ballabar,1,да
+1649,Baelor I Targaryen,0,нет
+1650,Balon Swann,1,да
+1651,Barba Bracken,0,нет
+1652,Barristan Selmy,1,да
+1653,Barbrey Dustin,1,да
+1654,Bellegere Otherys,1,да
+1655,Beardless Dick,1,да
+1656,Belwas,1,да
+1657,Benjen Stark,1,да
+1658,Bethany Bracken,1,да
+1659,Beric Dondarrion,1,да
+1660,Biter,1,да
+1661,Bluetooth,1,да
+1662,Brandon Norrey,1,да
+1663,Bowen Marsh,1,да
+1664,Bonifer Hasty,1,да
+1665,Bran the Builder,1,да
+1666,Brynden Rivers,0,нет
+1667,Brynden Tully,1,да
+1668,Caleotte,1,да
+1669,Cassella Vaith,1,да
+1670,Cellador,1,да
+1671,Chella,1,да
+1672,Cletus Yronwood,1,да
+1673,Colemon,1,да
+1674,Corlys Velaryon,0,нет
+1675,Criston Cole,1,да
+1676,Daemon I Blackfyre,0,нет
+1677,Daemon Targaryen,0,нет
+1678,Daenerys Targaryen,0,нет
+1679,Danny Flint,1,да
+1680,Daven Lannister,1,да
+1681,Dick Crabb,1,да
+1682,Donal Noye,1,да
+1683,Domeric Bolton,1,да
+1684,Davos Seaworth,1,да
+1685,Doreah,1,да
+1686,Dorea Sand,1,да
+1687,Dywen,1,да
+1688,Eddard Karstark,1,да
+1689,Eddard Stark,1,да
+1690,Elia Sand,1,да
+1691,Edmure Tully,1,да
+1692,Elia Martell,1,да
+1693,Emmon Cuy,0,нет
+1694,Eleyna Westerling,1,да
+1695,Falena Stokeworth,0,нет
+1696,Falia Flowers,1,да
+1697,Eustace Osgrey,1,да
+1698,Farlen,1,да
+1699,Falyse Stokeworth,1,да
+1700,Galazza Galare,0,нет
+1701,Emmond,1,да
+1702,Garth Hightower,1,да
+1703,Gared,0,нет
+1704,Genna Lannister,1,да
+1705,Garlan Tyrell,1,да
+1706,Gerion Lannister,1,да
+1707,Gevin Harlaw,1,да
+1708,Gerold Dayne,1,да
+1709,Godry Farring,1,да
+1710,Gorold Goodbrother,1,да
+1711,Grenn,1,да
+1712,Grey Worm,1,да
+1713,Greenbeard,1,да
+1714,Groleo,1,да
+1715,Grunt,0,нет
+1716,Gregor Clegane,1,да
+1717,Gylbert Farwynd,1,да
+1718,Guyard Morrigen,1,да
+1719,Hallyne,1,да
+1720,Haggo,0,нет
+1721,Hazzea,1,да
+1722,Hizdahr zo Loraq,0,нет
+1723,Harma,0,нет
+1724,Harry Strickland,1,да
+1725,Harys Swyft,1,да
+1726,Harwin,1,да
+1727,Hobb,1,да
+1728,High Sparrow,1,да
+1729,Hot Pie,1,да
+1730,Howland Reed,1,да
+1731,Holly,0,нет
+1732,Hugh,0,нет
+1733,Hyle Hunt,1,да
+1734,Hoster Tully,1,да
+1735,Humfrey Hewett,1,да
+1736,Ilyn Payne,1,да
+1737,Illyrio Mopatis,1,да
+1738,Irri,1,да
+1739,Imry Florent,1,да
+1740,Jack-Be-Lucky,1,да
+1741,Jacelyn Bywater,1,да
+1742,Jaime Lannister,1,да
+1743,Jason Mallister,1,да
+1744,Jeyne Poole,1,да
+1745,Jon Arryn,1,да
+1746,Jon Fossoway,1,да
+1747,Jonos Bracken,1,да
+1748,Justin Massey,1,да
+1749,Kedry,1,да
+1750,Jon Snow,1,да
+1751,Joss Stilwood,1,да
+1752,Kevan Lannister,1,да
+1753,Lady of the Leaves,1,да
+1754,Lharys,0,нет
+1755,Leyton Hightower,1,да
+1756,Larys Strong,0,нет
+1757,Lomys,1,да
+1758,Lewyn Martell,1,да
+1759,Lothar Frey,1,да
+1760,Lothor Brune,1,да
+1761,Lysa Arryn,0,нет
+1762,Maege Mormont,1,да
+1763,Mad Huntsman,1,да
+1764,Mance Rayder,0,нет
+1765,Mark Mullendore,1,да
+1766,Mark Ryswell,1,да
+1767,Marlon Manderly,1,да
+1768,Maron Greyjoy,1,да
+1769,Martyn Cassel,0,нет
+1770,Marq Piper,1,да
+1771,Mathis Rowan,1,да
+1772,Meribald,1,да
+1773,Mirri Maz Duur,1,да
+1774,Mikken,1,да
+1775,Morros Slynt,1,да
+1776,Myranda Royce,1,да
+1777,Nettles,0,нет
+1778,Notch,1,да
+1779,Obara Sand,1,да
+1780,Ulf the White,0,нет
+1781,Pypar,0,нет
+1782,Roose Bolton,1,да
+1783,Shireen Baratheon,1,да
+1784,Smiling Knight,1,да
+1785,Renly Baratheon,1,да
+1786,Theon Greyjoy,1,да
+1787,Robyn Rhysling,1,да
+1788,Rodrik Harlaw,1,да
+1789,Wendamyr,1,да
+1790,Varamyr,0,нет
+1791,Robin Potter,1,да
+1792,Richard Horpe,1,да
+1793,Sansa Stark,1,да
+1794,Vargo Hoat,1,да
+1795,Jaqen H'ghar,1,да
+1796,Robert Arryn,1,да
+1797,Rakharo,1,да
+1798,Rhaella Targaryen,0,нет
+1799,Tywin Lannister,1,да
+1800,Shagga,1,да
+1801,Wyman Manderly,1,да
+1802,Yellow Dick,0,нет
+1803,Yoren,1,да
+1804,Watty,1,да
+1805,Skahaz mo Kandaq,1,да
+1806,Wylis Manderly,1,да
+1807,Theo Wull,1,да
+1808,Wylla Manderly,1,да
+1809,Willas Tyrell,1,да
+1810,Wendel Manderly,1,да
+1811,Simon Toyne,1,да
+1812,Steffon Baratheon,0,нет
+1813,Shagwell,1,да
+1814,Rickard Karstark,1,да
+1815,Senelle,1,да
+1816,Shiera Seastar,0,нет
+1817,Reznak mo Reznak,1,да
+1818,Ronnet Connington,1,да
+1819,Tytos Blackwood,1,да
+1820,Syrio Forel,1,да
+1821,Rodrik Cassel,1,да
+1822,Stevron Frey,1,да
+1823,Steely Pate,1,да
+1824,Victaria Tyrell,1,да
+1825,Jon Connington,1,да
+1826,Rorge,1,да
+1827,Rickard Stark,0,нет
+1828,Visenya Targaryen,0,нет
+1829,Petyr Baelish,1,да
+1830,Viserys Targaryen,0,нет
+1831,Varys,1,да
+1832,Stygg,0,нет
+1833,Salladhor Saan,1,да
+1834,Victarion Greyjoy,1,да
+1835,Timeon,1,да
+1836,Tysha,0,нет
+1837,Shae,1,да
+1838,Spotted Cat,0,нет
+1839,Tormund,0,нет
+1840,Rodrik Greyjoy,1,да
+1841,Tyrion Lannister,1,да
+1842,Josmyn Peckledon,1,да
+1843,Trystane Martell,1,да
+1844,Rolland Storm,1,да
+1845,Willam Dustin,1,да
+1846,Torrhen Karstark,1,да
+1847,Three Toes,1,да
+1848,Ygritte,1,да
+1849,Tyland Lannister,0,нет
+1850,Thoren Smallwood,0,нет
+1851,Rolph Spicer,1,да
+1852,Selyse Florent,1,да
+1853,Tyrion Tanner,1,да
+1854,Sandor Clegane,1,да
+1855,Ulf son of Umar,0,нет
+1856,Urswyck,1,да
+1857,Clydas,1,да
+1858,Damion Lannister,1,да
+1859,Kraznys mo Nakloz,0,нет
+1860,Dacey Mormont,1,да
+1861,Jojen Reed,1,да
+1862,Lyonel Baratheon,1,да
+1863,Khorane Sathmantes,1,да
+1864,Vardis Egen,0,нет
+1865,Tya Lannister,1,да
+1866,Vyman,1,да
+1867,Orton Merryweather,1,да
+1868,Jeor Mormont,1,да
+1869,Rhaego,1,да
+1870,Samwell Stone,1,да
+1871,Mors Umber,1,да
+1872,Rhaegar Frey,1,да
+1873,Parmen Crane,0,нет
+1874,Qyburn,1,да
+1875,Weese,1,да
+1876,Qarl the Maid,1,да
+1877,Rickon Stark,1,да
+1878,Roslin Frey,1,да
+1879,Robar Royce,1,да
+1880,Robett Glover,1,да
+1881,Rhae Targaryen,0,нет
+1882,Ryman Frey,1,да
+1883,Quaithe,1,да
+1884,Rolly Duckfield,1,да
+1885,Togg Joth,1,да
+1886,Taena of Myr,1,да
+1887,Pyg,1,да
+1888,Stonesnake,1,да
+1889,Tycho Nestoris,1,да
+1890,Tanselle,1,да
+1891,Rhaelle Targaryen,0,нет
+1892,Tom of Sevenstreams,1,да
+1893,Shyra Errol,1,да
+1894,Steelskin,1,да
+1895,Val,0,нет
+1896,Satin,1,да
+1897,Xaro Xhoan Daxos,1,да
+1898,Maelor Targaryen,0,нет
+1899,Arianne Martell,1,да
+1900,Damon Dance-for-Me,1,да
+1901,Alysanne Targaryen,1,да
+1902,Baela Targaryen,0,нет
+1903,Brandon Stark,0,нет
+1904,Dunstan Drumm,1,да
+1905,Daemon Sand,1,да
+1906,Jafer Flowers,0,нет
+1907,Lysono Maar,1,да
+1908,Mycah,0,нет
+1909,Joyeuse Erenford,1,да
+1910,Rossart,0,нет
+1911,Tyene Sand,1,да
+1912,Waymar Royce,1,да
+1913,Stiv,0,нет
+1914,Daemon II Blackfyre,0,нет
+1915,Chataya,1,да
+1916,Hugh Hammer,0,нет
+1917,Tygett Lannister,1,да
+1918,Sarella Sand,1,да
+1919,Rhaegar Targaryen,0,нет
+1920,Drogo,1,да
+1921,Dunsen,0,нет
+1922,Barra,0,нет
+1923,Bethany Bolton,1,да
+1924,Desmond Grell,1,да
+1925,Devan Seaworth,1,да
+1926,Gendry,1,да
+1927,Gran Goodbrother,1,да
+1928,Loras Tyrell,1,да
+1929,Ricasso,1,да
+1930,Stalwart Shield,1,да
+1931,Yohn Royce,1,да
+1932,Yandry,1,да
+1933,Tarle,1,да
+1934,Temmo,1,да
+1935,Rohanne Webber,0,нет
+1936,Gormond Goodbrother,1,да
+1937,Walder Rivers,1,да
+1938,Symon Silver Tongue,0,нет
+1939,Moqorro,1,да
+1940,Meg,1,да
+1941,Laena Velaryon,0,нет
+1942,Luwin,1,да
+1943,Reek,1,да
+1944,Symeon Star-Eyes,1,да
+1945,Coldhands,1,да
+1946,Tytos Lannister,0,нет
